@@ -1,0 +1,16 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-family: Garamond, serif;
+}
+h2 {
+    text-align: center;
+} 
+footer{
+    padding-top: 1%;
+    padding-bottom: 2%;
+   background-color: #808080; 
+}
+img {
+    height: 200px;
+}
